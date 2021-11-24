@@ -1,4 +1,4 @@
-# ScandiWeb-Test
+# Test
 1. Clone the repo
 2. Create database
 3. Import the database from db.php
